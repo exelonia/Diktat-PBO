@@ -1,0 +1,17 @@
+var arr1 = []                           	// array kosong, 0 elemen
+var arr2 = [1,2,3,4,5]                  	// array dengan 5 elemen
+var arr3 = [3,4.1,"belajar","JavaScript"]   // array dengan 4 elemen
+
+ 
+var arr4 = new Array();                 	// array kosong, 0 elemen
+var arr5 = new Array(1,2,3,4,5)         	// array dengan 5 elemen
+var arr6 = new Array(3,4.1,"belajar","JavaScript")
+
+
+
+var a=12
+var arr1 = [a,a+1,a/2,a-3,3+5]
+  
+console.log(arr1.toString());  // hasil: 12,13,6,9,8
+
+
